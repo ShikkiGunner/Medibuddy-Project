@@ -1,0 +1,1 @@
+MediBuddy is a digital healthcare platform offering services for inpatient hospitalization, outpatient care, and corporate wellness benefits. This project analyzes healthcare insurance data to offer actionable insights and implements a machine learning model to predict policy coverage amounts.
